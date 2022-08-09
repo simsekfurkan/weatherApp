@@ -1,7 +1,7 @@
 
 # WeatherApp    
 
-Weather forecast app with openweatheraapi using user's location data. 
+Weather forecast app with openweather api using user's location data. 
 
 
 ## ScreenShots
